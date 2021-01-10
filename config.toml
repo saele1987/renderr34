@@ -1,0 +1,4 @@
+baseURL = "https://duetsheetmusicduo.vercel.app"
+languageCode = "en-us"
+title = "Duet Sheet Music Song"
+theme = "hugo-theme-minos"
